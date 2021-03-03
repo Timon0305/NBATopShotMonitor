@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2021/01/16 22:00:00",
+  "data": {
+    "credential": {
+      "email": "brandenmasks@gmail.com",
+      "password": "Tsbot123@"
+    },
+    "payment": {
+      "number": "4767718276714385",
+      "expiry": "09/26",
+      "cvv": "084",
+      "name": "Branden Garza"
+    },
+    "billing": {
+      "address": "701 Boardwalk",
+      "city": "Edinburg",
+      "state": "TX",
+      "postal": "78539"
+    }
+  }
+}

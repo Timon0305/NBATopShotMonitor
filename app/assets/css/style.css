@@ -1,0 +1,11 @@
+.right-border {
+  border-right: 1px solid #3f51b5;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.full-width {
+  width: 100%;
+}

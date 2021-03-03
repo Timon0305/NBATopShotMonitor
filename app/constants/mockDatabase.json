@@ -1,0 +1,155 @@
+{
+  "Tasks": [
+    {
+      "id": "123234g52435g4356h5",
+      "name": "Task1",
+      "site": "Gamenerdz",
+      "productUrl": "https://www.gamenerdz.com/dragon-shield-cube-shell-white",
+      "quantity": 1,
+      "proxy": "Proxy List 1",
+      "profile": "Test Profile",
+      "status": {
+        "title": "Ready",
+        "color": "green"
+      }
+    },
+    {
+      "id": "e3443t43t43t34t34f33ef",
+      "name": "Task2",
+      "site": "Gamenerdz",
+      "productUrl": "https://www.gamenerdz.com/dragon-shield-cube-shell-white",
+      "quantity": 1,
+      "proxy": "Proxy List 1",
+      "profile": "Test Profile",
+      "status": {
+        "title": "Ready",
+        "color": "green"
+      }
+    }
+  ],
+  "Profiles": [
+    {
+      "id": "asdf",
+      "name": "Profile 1",
+      "shipping": {
+        "firstName": "Alex",
+        "lastName": "Isaac",
+        "address": "15 E 11th ST",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "country": "US",
+        "postal": "10003",
+        "phone": "5712789921"
+      },
+      "isBillingSameAsShipping": true,
+      "billing": {
+        "firstName": "Alex",
+        "lastName": "Isaac",
+        "address": "15 E 11th ST",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "country": "US",
+        "postal": "10003",
+        "phone": "5712789921"
+      },
+      "ccInfo": {
+        "number": "4767718335574820",
+        "expiry": "12/26",
+        "cvv": "470",
+        "name": "Alex Isaac"
+      }
+    },
+    {
+      "id": "asdfasdf",
+      "name": "Profile 2",
+      "shipping": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "address": "US Highway",
+        "address2": "",
+        "city": "Clearwater",
+        "state": "FL",
+        "country": "US",
+        "postal": "18680",
+        "phone": "5712700000"
+      },
+      "isBillingSameAsShipping": true,
+      "billing": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "address": "US Highway",
+        "address2": "",
+        "city": "Clearwater",
+        "state": "FL",
+        "country": "US",
+        "postal": "18680",
+        "phone": "5712700000"
+      },
+      "ccInfo": {
+        "number": "4767718335574820",
+        "expiry": "12/26",
+        "cvv": "470",
+        "name": "John Doe"
+      }
+    }
+  ],
+  "Proxies": [
+    {
+      "id": "asdf",
+      "name": "Proxy List 1",
+      "data": [
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.162.15:17102:jinxqs:xinpqc",
+        "154.30.163.76:17102:hnbzws:urwyng",
+        "154.30.161.21:17102:ncqgwn:kchhee"
+      ]
+    }
+  ],
+  "Sites": [
+    {
+      "id": 1,
+      "name": "Gamenerdz",
+      "baseUrl": "https://www.gamenerdz.com",
+      "email": "ords@superemailer.com",
+      "password": "UserPass3421"
+    }
+  ],
+  "Settings": {
+    "2captchaToken": "7e46df056ec8ef506643bfb1c424301e",
+    "discordWebHookUrl": "",
+    "delayTimeInMs": 3000,
+    "retryTimeInMs": 3000,
+    "licenseKey": ""
+  }
+}
